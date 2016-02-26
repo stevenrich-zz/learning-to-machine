@@ -1,2 +1,7 @@
 # learning-to-machine
-my forays in machine learning
+
+Python libraries:
+scikit-learn - https://github.com/scikit-learn/scikit-learn
+
+R packages:
+neuralnet - https://cran.r-project.org/web/packages/neuralnet/neuralnet.pdf
